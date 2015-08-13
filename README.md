@@ -1,0 +1,2 @@
+# copyspecial
+python
